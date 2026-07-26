@@ -1,6 +1,26 @@
-# didedoshka-keyboard-layout
-My k02 layout
+# Yasherty
 
-http://www.keyboard-layout-editor.com/#/gists/227c6a71de4616bab2ac96e2d04408c3
+A custom Russian keyboard layout: Russian letters rearranged so that the top row starts with **я ш е р т ы** — hence the name, by analogy with QWERTY.
 
-![didedoshkaboard-(k02)(2)](https://github.com/didedoshka/didedoshka-keyboard-layout/assets/49822070/63990cbe-0aa8-4ee2-bc26-fa256a7ca38f)
+![Yasherty layout](yasherty.svg)
+
+Grey characters are typed with Shift, red ones with Option.
+
+## What makes it different from standard Russian (ЙЦУКЕН)
+
+- Letters are rearranged (see the picture above); `щ` lives on the backquote key.
+- Punctuation stays where it is in the US layout: `;` `:` `'` `"` `,` `.` `/` `?` and the digit-row symbols `!@#$%^&*()`.
+- `ь` is typed with Shift+`,` and `ъ` with Shift+`.`.
+- `ё`, `₽`, `«`, `»` are on Option: `ё` on `е`, `₽` on `р`, `«`/`»` on `о`/`п`.
+
+The layout is editable in [keyboard-layout-editor](http://www.keyboard-layout-editor.com/#/gists/227c6a71de4616bab2ac96e2d04408c3).
+
+## Installation (macOS)
+
+Copy `Yasherty.bundle` to `~/Library/Keyboard Layouts/`, log out and back in, then add **Yasherty** in System Settings → Keyboard → Input Sources (it is listed under Russian).
+
+The bundle was made with [Ukelele](https://software.sil.org/ukelele/).
+
+## See also
+
+I use this layout on a 36-key split keyboard — firmware and keymap live in [their own repository](https://github.com/didedoshka/proXiao).
