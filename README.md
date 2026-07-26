@@ -23,4 +23,4 @@ The bundle was made with [Ukelele](https://software.sil.org/ukelele/).
 
 ## See also
 
-I use this layout on a 36-key split keyboard — firmware and keymap live in [their own repository](https://github.com/didedoshka/proXiao).
+I use this layout alongside [APToshka](https://github.com/didedoshka/APToshka), my 36-key keymap.
