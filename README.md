@@ -13,8 +13,6 @@ Grey characters are typed with Shift, red ones with Option.
 - `ь` is typed with Shift+`,` and `ъ` with Shift+`.`.
 - `ё`, `₽`, `«`, `»` are on Option: `ё` on `е`, `₽` on `р`, `«`/`»` on `о`/`п`.
 
-The layout is editable in [keyboard-layout-editor](http://www.keyboard-layout-editor.com/#/gists/227c6a71de4616bab2ac96e2d04408c3).
-
 ## Installation (macOS)
 
 Copy `Yasherty.bundle` to `~/Library/Keyboard Layouts/`, log out and back in, then add **Yasherty** in System Settings → Keyboard → Input Sources (it is listed under Russian).
