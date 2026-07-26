@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.russiank02</string>
+	<string>org.sil.ukelele.keyboardlayout.yasherty</string>
 	<key>CFBundleName</key>
-	<string>russian k02</string>
+	<string>Yasherty</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Russian (k02)</key>
+	<key>KLInfo_Yasherty</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.russiank02.russian(k02)</string>
+		<string>org.sil.ukelele.keyboardlayout.yasherty.yasherty</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>

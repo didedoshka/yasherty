@@ -8,7 +8,7 @@
 
 -->
 <!--Last edited by Ukelele version 359 on 2023-04-12 at 12:54 (GMT+3)-->
-<keyboard group="126" id="-1967" name="Russian (k02)" maxout="1">
+<keyboard group="126" id="-1967" name="Yasherty" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
     </layouts>
