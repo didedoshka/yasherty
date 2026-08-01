@@ -292,7 +292,7 @@
             <key code="16" output="™"/>
             <key code="17" output="ћ"/>
             <key code="18" output="ї"/>
-            <key code="19" output="ё"/>
+            <key code="19" output="2"/>
             <key code="20" output="є"/>
             <key code="21" output="ґ"/>
             <key code="22" output="§"/>
@@ -400,7 +400,7 @@
             <key code="16" output="™"/>
             <key code="17" output="Ћ"/>
             <key code="18" output="Ї"/>
-            <key code="19" output="Ё"/>
+            <key code="19" output="@"/>
             <key code="20" output="Є"/>
             <key code="21" output="Ґ"/>
             <key code="22" output="&#x0026;"/>
